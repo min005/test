@@ -1,0 +1,65 @@
+#fv img{
+    height: 600px;
+    object-fit: cover;
+    max-width: 1920px;
+}
+
+h2{
+    display: inline-block;
+    font-size: 32px;
+    border-bottom: 1px solid #383e45;
+    margin-bottom: 60px;
+}
+
+#about .wrapper{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.about-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-flex-left{
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 30px;
+}
+
+.about-flex-right{
+    text-align: left;
+}
+
+.about-name{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#bicycle{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.bicycle-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bicycle-flexbox{
+    width: 32%;
+}
+
+.bicycle-flexbox h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
